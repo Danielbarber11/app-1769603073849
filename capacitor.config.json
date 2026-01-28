@@ -1,0 +1,9 @@
+{
+  "appId": "com.appcraft.p1769603073849",
+  "appName": "אפליקציה חדשה",
+  "webDir": "dist",
+  "server": {
+    "url": "https://Danielbarber11.github.io/app-1769603073849/",
+    "cleartext": true
+  }
+}
